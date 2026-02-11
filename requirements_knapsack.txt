@@ -1,0 +1,22 @@
+# Knapsack Optimization Project - Dependencies
+# Optimasi Pemilihan Produk Grocery
+# UNESA - Desain Analisis Algoritma 2024/2025
+
+# Core Data Processing
+pandas>=1.3.0
+
+# Development Environment
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.0.0
+
+# Optional: For enhanced notebooks
+ipywidgets>=7.6.0
+
+# Optional: For visualization (if needed for future improvements)
+# matplotlib>=3.4.0
+# seaborn>=0.11.0
+
+# Optional: For performance profiling
+# memory_profiler>=0.60.0
+# line_profiler>=3.3.0
